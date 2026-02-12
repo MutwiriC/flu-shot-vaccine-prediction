@@ -22,6 +22,7 @@ Current vaccination campaigns are broad and population-wide. This means resource
 - H1N1 vaccine (pandemic strain)
 - Seasonal flu vaccine (annual shot)
 
+
 ## Data
 
 - Source: DrivenData Flu Shot Learning Competition
@@ -116,18 +117,8 @@ Best parameters found:
 ## Feature Importance
 
 ### Top 10 predictors of non-vaccination (**H1N1** model):
+<img width="713" height="424" alt="image" src="https://github.com/user-attachments/assets/d30c1dbf-ea8c-47cb-a494-9deb958e2579" />
 
-Rank Feature What it measures
-1. doctor_recc_seasonal Doctor recommended seasonal flu vaccine
-2. opinion_seas_vacc_effective Believes seasonal vaccine works
-3. opinion_h1n1_vacc_effective Believes **H1N1** vaccine works
-4. doctor_recc_h1n1 Doctor recommended **H1N1** vaccine
-5. age_group Age bracket
-6. opinion_h1n1_risk Perceived risk of getting **H1N1**
-7. behavioral_antiviral_meds Has taken antiviral medications
-8. health_worker Employed in healthcare
-9. opinion_seas_risk Perceived risk of seasonal flu
-10. education Education level
 
 Observations:
 
