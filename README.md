@@ -16,6 +16,7 @@ The models and insights from this project are designed to help public health off
 ## Business Problem
 
 Current vaccination campaigns are broad and population-wide. This means resources are spent on people who would vaccinate anyway, while vaccine-hesitant populations remain unengaged. Better targeting could improve both efficiency and outcomes.
+<img width="295" height="202" alt="Seasonal Vaccine Distribution" src="https://github.com/user-attachments/assets/0044de47-f28a-48dd-9a8a-579c27d3821f" />
 
 **_Two targets:_**
 
@@ -117,7 +118,7 @@ Best parameters found:
 ## Feature Importance
 
 ### Top 10 predictors of non-vaccination (**H1N1** model):
-<img width="713" height="424" alt="image" src="https://github.com/user-attachments/assets/d30c1dbf-ea8c-47cb-a494-9deb958e2579" />
+<img width="527" height="311" alt="Feature importance" src="https://github.com/user-attachments/assets/02d2d20d-c6d7-4469-9c8d-473c00eb9900" />
 
 
 Observations:
